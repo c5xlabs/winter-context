@@ -1,0 +1,4 @@
+name = "winter-context"
+prefix = "context"
+description = "Shared engineering governance — read when designing or reviewing application boundaries, writing tests, or resolving a cited wctx: rule id."
+load = "lazy"
